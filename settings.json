@@ -1,0 +1,17 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Material Theme Ocean High Contrast",
+    "files.autoSave": "onWindowChange",
+    "window.menuBarVisibility": "toggle",
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "all",
+    "editor.fontSize": 20,
+    "editor.tabSize": 2,
+    "workbench.editor.tabSizing": "shrink",
+    "editor.detectIndentation": false,
+    "editor.folding": false,
+    "editor.smoothScrolling": true,
+    "editor.wordWrap": "on",
+    "editor.suggest.localityBonus": true
+}
