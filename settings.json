@@ -12,5 +12,6 @@
     "editor.smoothScrolling": true,
     "editor.wordWrap": "on",
     "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
     "editor.suggest.localityBonus": true
 }
