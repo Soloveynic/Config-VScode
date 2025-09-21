@@ -13,5 +13,7 @@
     "editor.wordWrap": "on",
     "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false,
-    "editor.suggest.localityBonus": true
+    "editor.suggest.localityBonus": true,
+    "github.copilot.enable": false, 
+    "security.workspace.trust.enabled": false
 }
