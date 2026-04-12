@@ -2,7 +2,7 @@
     "workbench.startupEditor": "newUntitledFile",
     "files.autoSave": "onWindowChange",
     "window.menuBarVisibility": "toggle",
-    "editor.minimap.enabled": false,
+    "editor.minimap.enabled": true,
     "editor.renderWhitespace": "all",
     "editor.fontSize": 20,
     "editor.tabSize": 2,
