@@ -14,6 +14,16 @@
     "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false,
     "editor.suggest.localityBonus": true,
-    "github.copilot.enable": false, 
     "security.workspace.trust.enabled": false
+    "github.copilot.enable": {
+          "*": false
+        },
+    "github.copilot.editor.enableAutoCompletions": false,
+    "chat.editing.alwaysConfirm": true,
+    "inlineChat.showRerun": false,
+    "security.workspace.trust.enabled": false,
+    "settingsSync.ingnoredExtensions": [
+          "github.copilot",
+          "github.copilot-chat"
+        ]
 }
